@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "GrpcFunnelPoint": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "applicationUrl": "http://localhost:5274;https://localhost:7274",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
